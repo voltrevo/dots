@@ -1,0 +1,21 @@
+{
+  "name": "sphere",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Morris",
+  "license": "MIT"
+}
